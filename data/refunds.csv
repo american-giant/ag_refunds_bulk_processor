@@ -1,0 +1,5 @@
+order-no,order-status,shipping-status,rma-number,rma-status,return-date,refund-amount,stripe-charge-id,paypal-transaction-id
+AG-US-00829053,RETURN,SHIPPED,199213,Pending Receipt,7/8/2019 11:06 am,118,,6HW9422755166404B
+SO901270786,RETURN,SHIPPED,199214,Refunded,7/8/2019 11:46 am,117.18,,
+AG-US-00848328,RETURN,SHIPPED,199215,Closed,7/8/2019 12:24 pm,100.3,ch_1EXUodJbAfK4zMcbkt2GzP1A,
+AG-US-00860866,RETURN,SHIPPED,199216,Pending Receipt,7/8/2019 4:35 pm,82.47,ch_1EicmLJbAfK4zMcbd5Uz6Zo0,

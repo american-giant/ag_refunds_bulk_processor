@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<order order-no="AG-US-00829053">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199213</rma-number>
+				<rma-status>Pending Receipt</rma-status>
+				<return-date>7/8/2019 11:06 am</return-date>
+				<refund-amount>118</refund-amount>
+				<stripe-charge-id/>
+				<paypal-transaction-id>6HW9422755166404B</paypal-transaction-id>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>W1-11A-26A-SBL-16</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+	<order order-no="SO901270786">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199214</rma-number>
+				<rma-status>Refunded</rma-status>
+				<return-date>7/8/2019 11:46 am</return-date>
+				<refund-amount>117.18</refund-amount>
+				<stripe-charge-id/>
+				<paypal-transaction-id/>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>M1-1A-1-BL-M</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+	<order order-no="AG-US-00848328">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199215</rma-number>
+				<rma-status>Closed</rma-status>
+				<return-date>7/8/2019 12:24 pm</return-date>
+				<refund-amount>100.3</refund-amount>
+				<stripe-charge-id>ch_1EXUodJbAfK4zMcbkt2GzP1A</stripe-charge-id>
+				<paypal-transaction-id/>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>W1-11A-26A-SBL-10</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+	<order order-no="AG-US-00860866">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199216</rma-number>
+				<rma-status>Pending Receipt</rma-status>
+				<return-date>7/8/2019 4:35 pm</return-date>
+				<refund-amount>82.47</refund-amount>
+				<stripe-charge-id>ch_1EicmLJbAfK4zMcbd5Uz6Zo0</stripe-charge-id>
+				<paypal-transaction-id/>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>M1-9C-1-BSW-XL</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+</orders>

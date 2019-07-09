@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<order order-no="AG-US-00865195">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199124</rma-number>
+				<rma-status>Refunded</rma-status>
+				<return-date>7/3/2019 9:28 am</return-date>
+				<refund-amount>1</refund-amount>
+                <stripe-charge-id>ch_1DgMKtJbAfK4zMcbkVweji0F</stripe-charge-id>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>W4-3H-15-HTG-28</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>W4-3H-15-FE-28</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>M4-3H-15-FAL-32</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>M2-2G-1A-BL-M</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>M2-2A-2A-NA-M</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>W4-3H-15-FAL-29</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>W1-11A-23A-SBL-6</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+	<order order-no="AG-US-00858910">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199082</rma-number>
+				<rma-status>Refunded</rma-status>
+				<return-date>7/3/2019 9:25 am</return-date>
+				<refund-amount>1</refund-amount>
+                <stripe-charge-id>ch_1DgMKtJbAfK4zMcbkVweji0F</stripe-charge-id>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>W1-11A-9T-SBL-14</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>W1-7J-5-HTG-L</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>W3-4C-4-BT-L</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+	<order order-no="AG-US-00860396">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199090</rma-number>
+				<rma-status>Refunded</rma-status>
+				<return-date>7/3/2019 9:26 am</return-date>
+				<refund-amount>1</refund-amount>
+                <stripe-charge-id>ch_1DgMKtJbAfK4zMcbkVweji0F</stripe-charge-id>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>M4-3K-11-SYG-L</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>M4-3H-12A-BAS-3432</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+	<order order-no="AG-US-00863024">
+		<order-status>RETURN</order-status>
+		<shipping-status>SHIPPED</shipping-status>
+		<returns>
+			<return>
+				<rma-number>199109</rma-number>
+				<rma-status>Refunded</rma-status>
+				<return-date>7/3/2019 9:27 am</return-date>
+				<refund-amount>1.10</refund-amount>
+                <stripe-charge-id>ch_1DgMKtJbAfK4zMcbkVweji0F</stripe-charge-id>
+				<product-lineitems>
+					<product-lineitem>
+						<product-id>M1-9C-1-BSW-XL</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+					<product-lineitem>
+						<product-id>M1-9C-1-SBL-XL</product-id>
+						<qty-returned>1</qty-returned>
+					</product-lineitem>
+				</product-lineitems>
+			</return>
+		</returns>
+	</order>
+</orders>
