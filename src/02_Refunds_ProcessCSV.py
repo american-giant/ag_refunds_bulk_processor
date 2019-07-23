@@ -4,7 +4,7 @@ import csv
 # Set your secret key: remember to change this to your live secret key in production
 # See your keys here: https://dashboard.stripe.com/account/apikeys
 #stripe.api_key = "sk_test_rfOkk13hmtpeXwQJT64ZAr48"
-stripe.api_key = "INSERT LIVE STRIPE API KEY" # DO NOT COMMIT LIVE SECRET KEY TO GITHUB REPO!
+stripe.api_key = "INSERT LIVE STRIPE API KEY HERE" # DO NOT COMMIT LIVE SECRET KEY TO GITHUB REPO!
 
 # Configure input and output
 data_directory = 'data/'
