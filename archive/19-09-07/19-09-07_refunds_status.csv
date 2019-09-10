@@ -1,0 +1,2 @@
+Order Number,Order Status,Shipping Status,RMA Number,RMA Status,Return Date,Refund Amount,Stripe Charge ID,PayPal Transaction ID,STATUS
+AG-US-00856922,RETURN,SHIPPED,202848,Refunded,8/27/2019 2:16 am,100.3,ch_1EeuA6JbAfK4zMcbumijAqML,,SUCCESS
