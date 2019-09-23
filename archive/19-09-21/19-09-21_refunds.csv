@@ -1,0 +1,3 @@
+order-no,order-status,shipping-status,rma-number,rma-status,return-date,refund-amount,stripe-charge-id,paypal-transaction-id
+AG-US-00859336,RETURN,SHIPPED,204583,Refunded,9/20/2019 9:38 am,240,,3VD05335Y91520227
+AG-US-00818162,RETURN,SHIPPED,204618,Pending Receipt,9/20/2019 3:29 pm,117.72,ch_1EA69DJbAfK4zMcbfvasR6VP,
