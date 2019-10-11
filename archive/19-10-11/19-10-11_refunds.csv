@@ -1,0 +1,2 @@
+order-no,order-status,shipping-status,rma-number,rma-status,return-date,refund-amount,stripe-charge-id,paypal-transaction-id
+AG-US-00772961,RETURN,SHIPPED,206512,Refunded,10/10/2019 9:59 am,117.59,ch_1DgZhPJbAfK4zMcbR7Uz3cYx,
