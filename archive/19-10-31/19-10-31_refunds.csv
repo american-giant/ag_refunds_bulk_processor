@@ -1,0 +1,2 @@
+order-no,order-status,shipping-status,rma-number,rma-status,return-date,refund-amount,stripe-charge-id,paypal-transaction-id
+AG-US-00775551,RETURN,SHIPPED,207204,Pending Receipt,10/30/2019 4:29 pm,117.59,ch_1Dh0XzJbAfK4zMcbMjSjePlj,
